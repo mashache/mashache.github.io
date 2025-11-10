@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Your Name
+title: Maria (Masha) Cheremisinova
 permalink: /
 ---
 
