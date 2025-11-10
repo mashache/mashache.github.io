@@ -1,0 +1,15 @@
+title: Your Name
+description: Personal academic page
+theme: minima
+header_pages:
+  - pages/education.md
+  - pages/teaching.md
+  - pages/publications.md
+  - pages/talks.md
+
+author:
+  name: Maria (Masha) Cheremisinova
+  email: mcheremisinova@utexas.edu
+  affiliation: PhD student, The University of Texas at Austin
+  google scholar: https://scholar.google.ru/citations?user=RoF1l1UAAAAJ&hl=en&authuser=1
+  cv: /assets/CV_Cheremisinova_2025.pdf
