@@ -6,7 +6,6 @@ permalink: /
 
 <img src="/assets/photo_masha.jpg" alt="Your Name" style="width:160px;border-radius:12px;margin-bottom:1rem;">
 
-**{{ site.author.name }}**  
 {{ site.author.affiliation }}  
 [{{ site.author.email }}](mailto:{{ site.author.email }}) · [Google Scholar]({{ site.author.scholar }}) · [CV (PDF)]({{ site.author.cv }})
 
