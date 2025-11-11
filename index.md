@@ -23,22 +23,25 @@ permalink: /
 <p></p>I am a third-year PhD student in Linguistics at the University of Texas at Austin. My research focuses on the documentation and description of languages. I am also interested in linguistic typology and the role of language contact in shaping grammar. I conducted field research working on several Uralic languages of Russia. Currently, I am working on documenting and describing Yagua (Peba-Yaguan), a language of the Peruvian Amazon.</p>
 </div>
 
-## Fields of interest
-- linguistics
-- language documentation
-- typology
-- semantics
-- tense
-- minority languages
-- language contact
-- Amazonia
-- Uralic languages
+<h2>Fields of interest</h2>
+<ul>
+<li>linguistics</li>
+<li>language documentation</li>
+<li>typology</li>
+<li>semantics</li>
+<li>tense</li>
+<li>language contact</li>
+<li>Amazonia</li>
+<li>Uralic languages</li>
+</ul>
 
-## Ongoing projects
-- Documentation and description of Yagua
-- Tense/remoteness
+<h2>Ongoing projects</h2>
+<ul>
+<li>Documentation and description of Yagua</li>
+<li>Tense/remoteness</li>
+</ul>
 
-## Linguistic field trips
+<h2>Linguistic field trips</h2>
 Yagua, Beserman, Khanty, Hill Mari
 
 <footer style="margin:2rem 0; color:#666; font-size:0.9rem;">
