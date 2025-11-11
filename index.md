@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maria (Masha) Cheremisinova
+title: Home
 permalink: /
 ---
 
