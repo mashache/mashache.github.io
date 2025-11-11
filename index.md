@@ -4,12 +4,24 @@ title: Maria (Masha) Cheremisinova
 permalink: /
 ---
 
-<img src="/assets/photo_masha.jpg" alt="Your Name" style="width:160px;border-radius:12px;margin-bottom:1rem;">
+<main>
+  <div class="header">
+    <img src="/assets/photo_masha.jpg" alt="Your Name" style="width:160px;border-radius:12px;margin-bottom:1rem;">
+    <div>
+      <h1>{{ site.author.name }}</h1>
+      <div class="meta muted">{{ site.author.affiliation }}</div>
+      <div class="links">
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        <a href="{{ site.author.cv }}">CV (PDF)</a>
+        <a href="{{ site.author.scholar }}">Google Scholar</a>
+      </div>
+    </div>
+  </div>
 
-{{ site.author.affiliation }}  
-[{{ site.author.email }}](mailto:{{ site.author.email }}) · [Google Scholar]({{ site.author.scholar }}) · [CV (PDF)]({{ site.author.cv }})
-
-I am a third-year PhD student in Linguistics at the University of Texas at Austin. My research focuses on the documentation and description of languages. I am also interested in linguistic typology and the role of language contact in shaping grammar. I conducted field research working on several Uralic languages of Russia. Currently, I am working on documenting and describing Yagua (Peba-Yaguan), a language of the Peruvian Amazon.
+<div class="section">
+    <h2>About</h2>
+<p></p>I am a third-year PhD student in Linguistics at the University of Texas at Austin. My research focuses on the documentation and description of languages. I am also interested in linguistic typology and the role of language contact in shaping grammar. I conducted field research working on several Uralic languages of Russia. Currently, I am working on documenting and describing Yagua (Peba-Yaguan), a language of the Peruvian Amazon.</p>
+</div>
 
 ## Fields of interest
 - linguistics
@@ -32,3 +44,4 @@ Yagua, Beserman, Khanty, Hill Mari
 <footer style="margin:2rem 0; color:#666; font-size:0.9rem;">
   <em>Last updated: {{ "now" | date: "%B %d, %Y" }}</em>
 </footer>
+</main>
