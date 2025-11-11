@@ -28,3 +28,7 @@ I am a third-year PhD student in Linguistics at the University of Texas at Austi
 
 ## Linguistic field trips
 Yagua, Beserman, Khanty, Hill Mari
+
+<footer style="margin:2rem 0; color:#666; font-size:0.9rem;">
+  <em>Last updated: {{ "now" | date: "%B %d, %Y" }}</em>
+</footer>
