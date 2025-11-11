@@ -30,17 +30,30 @@ p, li { max-width: 70ch; }
 
 img { max-width: 100%; height: auto; border-radius: 10px; }
 
-.site-nav{
+/* --- NAVIGATION BAR --- */
+.site-nav {
   max-width: 860px;
   margin: 0 auto;
-  padding: 12px 20px;
-  border-bottom: 1px solid #e6e6e6;
+  padding: 12px 24px;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  gap: 20px;             
+  flex-wrap: wrap;     
 }
-.site-nav a{
-  margin-right: 14px;
+
+.site-nav a {
+  color: #000;              
   text-decoration: none;
+  font-weight: 500;
+  font-family: "Inter", system-ui, sans-serif;
+  transition: color 0.2s ease;
 }
-.site-nav a:hover{ text-decoration: underline; }
+
+.site-nav a:hover {
+  color: #000;           
+  text-decoration: underline; 
+}
+
 
 footer {
   margin-top: 2rem;
