@@ -44,6 +44,7 @@ permalink: /
 <h2>Linguistic field trips</h2>
 Yagua, Beserman, Khanty, Hill Mari
 
+<hr>
 <footer style="margin:2rem 0; color:#666; font-size:0.9rem;">
   <em>Last updated: {{ "now" | date: "%B %d, %Y" }}</em>
 </footer>
