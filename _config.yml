@@ -2,6 +2,7 @@ title: "Maria (Masha) Cheremisinova"
 description: "Personal academic page"
 theme: minima
 header_pages:
+  - index.md
   - pages/education.md
   - pages/publications.md
 
