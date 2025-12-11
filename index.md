@@ -11,9 +11,9 @@ permalink: /
       <h1>{{ site.author.name }}</h1>
       <div class="meta muted">{{ site.author.affiliation }}</div>
       <div class="links">
-        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
-        <a href="{{ site.author.cv }}">CV (PDF)</a>
-        <a href="{{ site.author.scholar }}">Google Scholar</a>
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>
+        <a href="{{ site.author.cv }}">CV (PDF)</a><br>
+        <a href="{{ site.author.scholar }}">Google Scholar</a><br>
       </div>
     </div>
   </div>
