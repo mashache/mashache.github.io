@@ -8,14 +8,9 @@
 
 * { box-sizing: border-box; }
 
-html, body {
-  margin: 0;
-  padding: 0;
-  background: var(--bg);
-  color: var(--fg);
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.7;
+html, body,
+.site-header, .site-nav, .page-content, .post-content {
+  font-family: "Merriweather", Georgia, serif !important;
 }
 
 main {
@@ -74,14 +69,5 @@ footer {
   color: var(--muted);
   font-size: 0.9rem;
   text-align: left;
-}
-
-html, body,
-.site-header,
-.site-nav,
-.page-content,
-.post-content,
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif !important;
 }
 
