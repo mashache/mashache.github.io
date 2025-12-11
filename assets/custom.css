@@ -8,10 +8,10 @@
 
 * { box-sizing: border-box; }
 
-html, body,
-.site-header, .site-nav, .page-content, .post-content {
-  font-family: "Merriweather", Georgia, serif !important;
+html, body {
+  font-family: "Lora", Georgia, serif !important;
 }
+
 
 main {
   max-width: var(--maxw);
