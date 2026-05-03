@@ -5,17 +5,6 @@ permalink: /
 ---
 
 <main>
-  <div class="header">
-    <img src="/assets/photo_masha.jpg" alt="Your Name" style="width:160px;border-radius:12px;margin-bottom:1rem;">
-    <div>
-      <div class="meta muted">{{ site.author.affiliation }}</div>
-      <div class="links">
-        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>
-        <a href="{{ site.author.cv }}">CV (PDF)</a><br>
-        <a href="{{ site.author.scholar }}">Google Scholar</a><br>
-      </div>
-    </div>
-  </div>
 
 <div class="section">
     <h2>About</h2>
