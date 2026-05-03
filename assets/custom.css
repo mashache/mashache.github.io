@@ -107,3 +107,6 @@ footer {
   text-align: left;
 }
 
+body {
+  background: red !important;
+}
