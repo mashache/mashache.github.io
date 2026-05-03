@@ -6,21 +6,27 @@
   <body>
     <header class="site-header">
   <div class="profile-block">
-  <img src="{{ site.photo | relative_url }}" class="profile-photo">
+  <img src="{{ '/assets/img/profile.jpeg' | relative_url }}" class="profile-photo">
 
   <div class="profile-info">
     <h1>
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
     </h1>
 
-    <p>{{ site.affiliation }}</p>
+    <p>{{ site.author.affiliation }}</p>
 
     <p>
-      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      <a href="mailto:{{ site.author.email }}">
+        {{ site.author.email }}
+      </a>
     </p>
 
     <p>
-      <a href="{{ site.cv | relative_url }}">CV</a>
+      <a href="{{ site.author.scholar }}">Google Scholar</a>
+    </p>
+
+    <p>
+      <a href="{{ site.author.cv | relative_url }}">CV</a>
     </p>
   </div>
 </div>
