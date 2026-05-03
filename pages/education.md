@@ -2,6 +2,7 @@
 layout: default
 title: Education
 permalink: /education/
+show_title: false
 ---
 
 ## Education
