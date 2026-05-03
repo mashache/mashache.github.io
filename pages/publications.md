@@ -2,6 +2,7 @@
 layout: page
 title: Publications and talks
 permalink: /publications/
+show_title: false
 ---
 
 ## Publications
