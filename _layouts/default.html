@@ -5,11 +5,11 @@
   </head>
   <body>
     <header class="site-nav">
-      <div class="site-title">
-        <a href="{{ '/' | relative_url }}">Your Name</a>
-      </div>
+  <div class="site-name">
+    <a href="{{ '/' | relative_url }}">Maria (Masha) Cheremisinova</a>
+  </div>
 
-  <nav>
+  <nav class="site-menu">
     {% for p in site.header_pages %}
       {% assign my_page = site.pages | where: "path", p | first %}
       {% if my_page %}
