@@ -40,29 +40,48 @@ p {
 img { max-width: 100%; height: auto; border-radius: 10px; }
 
 /* --- NAVIGATION BAR --- */
-.site-nav {
+.site-header {
   max-width: 860px;
   margin: 0 auto;
-  padding: 18px 24px 12px;
+  padding: 32px 24px 16px;
   border-bottom: 1px solid #e5e7eb;
-  text-align: center;
 }
 
-.site-name {
-  font-size: 1.7rem;
+.profile-block {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  margin-bottom: 20px;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.profile-info h1 {
+  margin: 0 0 12px;
+  font-size: 2rem;
   font-weight: 600;
-  margin-bottom: 10px;
 }
 
-.site-name a {
+.profile-info p {
+  margin: 0.35em 0;
+}
+
+.profile-info a {
   color: #000;
   text-decoration: none;
-  font-family: "Lora", Georgia, serif;
+}
+
+.profile-info a:hover {
+  text-decoration: underline;
 }
 
 .site-menu {
   display: flex;
-  justify-content: center;
   gap: 20px;
   flex-wrap: wrap;
 }
@@ -72,12 +91,9 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
   text-decoration: none;
   font-weight: 500;
   font-family: "Inter", system-ui, sans-serif;
-  transition: color 0.2s ease;
 }
 
-.site-menu a:hover,
-.site-name a:hover {
-  color: #000;
+.site-menu a:hover {
   text-decoration: underline;
 }
 
