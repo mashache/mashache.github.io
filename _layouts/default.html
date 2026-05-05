@@ -21,13 +21,16 @@
       </div>
 
       <nav class="site-menu">
-        {% for p in site.header_pages %}
-          {% assign my_page = site.pages | where: "path", p | first %}
-          {% if my_page %}
-            <a href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </nav>
+  {% for p in site.header_pages %}
+    {% assign my_page = site.pages | where: "path", p | first %}
+    {% if my_page %}
+      <a href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a>
+    {% endif %}
+  {% endfor %}
+
+  <!-- CV link -->
+  <a href="{{ site.author.cv | relative_url }}">CV</a>
+</nav>
     </header>
 
     <main aria-label="Content">
