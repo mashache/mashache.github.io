@@ -22,14 +22,11 @@ permalink: /
 <li>isolates</li>
 </ul>
 
-<h2>Ongoing projects</h2>
-<ul>
-<li>Documentation and description of Yagua</li>
-<li>Tense/remoteness</li>
-</ul>
-
 <h2>Linguistic field trips</h2>
 Yagua (Peba-Yaguan), Beserman (Uralic, Permic), Khanty (Uralic, Ugric), Hill Mari (Uralic, Mari)
+
+<h2>My name</h2>
+My name is pronounced [mˠɐˈrʲiɘ t͡ʃʲɘrʲɪˈmʲisʲɘnˠəvˠə]. However, I prefer to be called Masha [].
 
 <hr>
 <footer style="margin:2rem 0; color:#666; font-size:0.9rem;">
