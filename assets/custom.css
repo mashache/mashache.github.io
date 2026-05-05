@@ -163,7 +163,7 @@ ul, ol {
 }
 
 li {
-  margin-bottom: 0.3em;   /* space between items */
+  margin-bottom: 0.1em;   /* space between items */
   line-height: 1.6;       /* spacing inside items */
 }
 
