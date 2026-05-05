@@ -5,7 +5,7 @@ permalink: /publications/
 show_title: false
 ---
 
-### Books
+<h2>Books</h2>
 <div class="book-covers">
   <img src="https://github.com/user-attachments/assets/d05ffecd-54a4-4de8-aabd-b3c9d5efaa3e" alt="bsrmn_vol1">
   <img src="https://github.com/user-attachments/assets/76952899-49b8-4d19-9fc4-79d813aaf975" alt="bsrmn_vol2">
