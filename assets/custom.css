@@ -79,13 +79,13 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
 }
 
 .site-menu a:hover {
-  color: #000 !important;      /* prevent color change */
-  background-color: #e6dccb;   /* highlight */
+  color: #000 !important;    
+  background-color: #f0e8dc;  
 }
 
 .site-menu a.active {
-  color: #000 !important;      /* still black */
-  background-color: #d8cfc2;   /* slightly darker */
+  color: #000 !important;     
+  background-color: #f0e8dc;  
   font-weight: 600;
 }
 
