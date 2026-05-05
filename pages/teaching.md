@@ -16,7 +16,7 @@ show_title: false
   <tr>
     <td class="cv-year">2025</td>
     <td>
-      <strong>Teaching Assistant</strong> (leading discussion sessions), Department of Linguistics, UT Austin<br>
+      <strong>Teaching Assistant (leading discussion sessions)</strong>, Department of Linguistics, UT Austin<br>
       <em>Threatened Languages: How World Linguistic Diversity Matters</em> (A. Woodbury, P. Epps)<br>
       <em>Language and Communication across Species</em> (D. Quinto-Pozos)
     </td>
@@ -25,7 +25,37 @@ show_title: false
   <tr>
     <td class="cv-year">2023–2024</td>
     <td>
-      <strong>Teaching Assistant</strong>, Department of Linguistics, UT Austin
+      <strong>Teaching Assistant</strong>, Department of Linguistics, UT Austin<br>
+      <em>Language Change and Language Variation</em> (D. Law)
+<em>Phonetics: The Production and Perception of Speech Sounds</em> (R. Smiljanic)
+<em>Syntax and Semantics: The Structure and Meaning of Utterances</em> (S. Wechsler)
+    </td>
+  </tr>
+
+   <tr>
+    <td class="cv-year">2021–2022</td>
+    <td>
+      <strong>Instructor</strong>, School of Linguistics, HSE University<br>
+      <em>Introduction to Linguistics</em>
+<em>Languages of the World</em>
+<em>Academic Writing</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="cv-year">2020–2021</td>
+    <td>
+      <strong>Instructor</strong>, School of Linguistics, HSE University<br>
+      <em>Introduction to Linguistics</em>
+<em>Languages of the World</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="cv-year">2018–2019</td>
+    <td>
+      <strong>Teaching Assistant</strong>, School of Linguistics, HSE University<br>
+<em>Languages of the World</em>
     </td>
   </tr>
 </table>
