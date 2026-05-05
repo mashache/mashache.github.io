@@ -107,6 +107,18 @@ footer {
   text-align: left;
 }
 
-body {
-  background: red !important;
+.site-header {
+  padding-bottom: 4px !important;
+}
+
+.profile-block {
+  margin-bottom: 6px !important;
+}
+
+.site-menu {
+  margin-bottom: 0 !important;
+}
+
+main {
+  padding-top: 4px !important;
 }
