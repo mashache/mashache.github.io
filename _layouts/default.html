@@ -14,8 +14,16 @@
             {{ site.author.name }}
           </h1>
 
-          <p>{{ site.author.affiliation }}</p>
-          <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+          <p class="info-line">
+  <span class="icon">🎓</span>
+  {{ site.author.affiliation }}
+</p>
+
+<p class="info-line">
+  <span class="icon">✉️</span>
+  <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+</p>
+         
           <p><a href="{{ site.author.scholar }}">Google Scholar</a></p>
         </div>
       </div>
