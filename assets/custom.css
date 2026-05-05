@@ -27,6 +27,7 @@ main a {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
+  text-decoration-color: #d8cfc2;
   transition: background-color 0.2s ease;
 }
 
@@ -34,6 +35,7 @@ main a:hover {
   color: #000;
   background-color: #e6dccb;
   text-decoration: underline;
+  text-decoration-color: #bfb3a2;
 }
 
 h1 {
