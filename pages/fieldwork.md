@@ -5,5 +5,4 @@ permalink: /fieldwork/
 show_title: false
 ---
 
-## Fieldwork experience
 
