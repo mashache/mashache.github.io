@@ -19,7 +19,7 @@ body {
 main {
   max-width: var(--maxw);
   margin: 0 auto;
-  padding: 12px 24px 40px; /* top, sides, bottom */
+  padding: 0px 24px 30px; /* top, sides, bottom */
 }
 
 a { color: var(--link); text-decoration: none; }
@@ -122,9 +122,6 @@ footer {
   margin-bottom: 0 !important;
 }
 
-main {
-  padding-top: 0px !important;
-}
 
 .book-covers {
   display: flex;
