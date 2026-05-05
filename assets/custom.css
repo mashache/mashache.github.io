@@ -58,14 +58,14 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
 .site-header {
   max-width: 860px;
   margin: 0 auto;
-  padding: 20px 24px 10px;   /* ↓ reduce */
+  padding: 20px 24px 10px;  
 }
 
 .profile-block {
   display: flex;
   align-items: center;
   gap: 28px;
-  margin-bottom: 10px;       /* ↓ reduce */
+  margin-bottom: 20px;       
 }
 
 .site-menu a {
@@ -73,7 +73,7 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
   text-decoration: none;
   font-weight: 500;
   font-family: "Inter", system-ui, sans-serif;
-  padding: 4px 6px;
+  padding: 0px 16px;
   border-radius: 4px;
   transition: background-color 0.2s ease;
 }
