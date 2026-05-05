@@ -167,3 +167,20 @@ li {
 li p {
   margin: 0.3em 0;
 }
+
+.info-line {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.icon {
+  display: inline-flex;
+  align-items: center;
+  color: #7a5f4a;
+}
+
+.icon svg {
+  width: 15px;
+  height: 15px;
+}
