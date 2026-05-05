@@ -65,13 +65,15 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
   display: flex;
   align-items: center;
   gap: 28px;
-  margin-bottom: 30px !important;       
+  margin-bottom: 0px !important;       
 }
 
 .site-menu {
   display: flex;
   gap: 12px;
   flex-wrap: wrap;
+  margin-top: 14px;
+  padding-top: 10px;
 }
 
 .site-menu a {
