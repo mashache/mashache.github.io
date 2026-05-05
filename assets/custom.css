@@ -193,3 +193,20 @@ li p {
   margin-top: 26px !important;
   padding-top: 14px !important;
 }
+
+.cv-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cv-table td {
+  vertical-align: top;
+  padding-bottom: 1em;
+}
+
+.cv-year {
+  width: 110px;
+  font-weight: 600;
+  color: #5f3d25;
+  white-space: nowrap;
+}
