@@ -12,6 +12,9 @@ html, body {
   font-family: "Lora", Georgia, serif !important;
 }
 
+body {
+  background-color: #f7f3ec; /* soft crema */
+}
 
 main {
   max-width: var(--maxw);
