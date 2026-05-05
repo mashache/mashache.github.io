@@ -7,10 +7,10 @@ show_title: false
 
 ## Publications
 ### Books
-- [Arkhangelskiy, Timofey, Maria Usacheva and Maria Cheremisinova. 2026. A Grammar
-of Beserman: Volume 1. Leiden, The Netherlands: Brill.](https://doi.org/10.1163/9789004757097)
 - Arkhangelskiy, Timofey, Maria Usacheva and Maria Cheremisinova. 2026. A Grammar
-of Beserman: Volume 2. Leiden, The Netherlands: Brill. https://doi.org/10.1163/9789004763241
+of Beserman: Volume 1. Leiden, The Netherlands: Brill.[link](https://doi.org/10.1163/9789004757097)
+- Arkhangelskiy, Timofey, Maria Usacheva and Maria Cheremisinova. 2026. A Grammar
+of Beserman: Volume 2. Leiden, The Netherlands: Brill. [link](https://doi.org/10.1163/9789004763241)
 
 ### Journal articles
 - Cheremisinova, Maria. 2022. Komparativno-attenuativnaja polisemija v finno-ugorskix
