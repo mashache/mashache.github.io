@@ -178,10 +178,11 @@ li p {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  margin-top: 2px;
 }
 
 .icon svg {
-  width: 14px !important;
-  height: 14px !important;
+  width: 12px !important;
+  height: 12px !important;
   flex-shrink: 0;
 }
