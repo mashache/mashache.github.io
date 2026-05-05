@@ -68,12 +68,18 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
   margin-bottom: 30px !important;       
 }
 
+.site-menu {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
 .site-menu a {
   color: #000 !important;      /* always black */
   text-decoration: none;
   font-weight: 500;
   font-family: "Inter", system-ui, sans-serif;
-  padding: 0px 16px;
+  padding: 2px 6px;
   border-radius: 4px;
   transition: background-color 0.2s ease;
 }
@@ -125,11 +131,6 @@ footer {
 
 .site-header {
   padding-bottom: 10px !important;
-}
-
-
-.site-menu {
-  margin-bottom: 0 !important;
 }
 
 
