@@ -3,8 +3,10 @@ description: "Personal academic page"
 theme: minima
 header_pages:
   - index.md
-  - pages/education.md
   - pages/publications.md
+  - pages/teaching.md
+  - pages/fieldwork.md
+  - pages/cv.md
 
 author:
   name: "Maria (Masha) Cheremisinova"
