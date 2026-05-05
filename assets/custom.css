@@ -64,6 +64,10 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
   margin-bottom: 6px;        /* ↓ add control */
 }
 
+.site-menu a.active {
+  text-decoration: underline;
+  font-weight: 600;
+}
 
 .profile-photo {
   width: 150px;
