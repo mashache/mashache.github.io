@@ -23,12 +23,12 @@ main {
 }
 
 main a {
-  color: #000;
+  color: #8b5e3c; /* warm brown */
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
   text-decoration-color: #d8cfc2;
-  transition: background-color 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 main a:hover {
