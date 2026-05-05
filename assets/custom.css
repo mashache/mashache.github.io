@@ -80,12 +80,12 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
 
 .site-menu a:hover {
   color: #000 !important;    
-  background-color: #f0e8dc;  
+  background-color: #efe3d3;  
 }
 
 .site-menu a.active {
   color: #000 !important;     
-  background-color: #f0e8dc;  
+  background-color: #e3d2bd;  
   font-weight: 600;
 }
 
