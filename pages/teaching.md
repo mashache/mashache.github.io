@@ -26,9 +26,9 @@ show_title: false
     <td class="cv-year">2023–2024</td>
     <td>
       <strong>Teaching Assistant</strong>, Department of Linguistics, UT Austin<br>
-      <em>Language Change and Language Variation</em> (D. Law)<br>
-<em>Phonetics: The Production and Perception of Speech Sounds</em> (R. Smiljanic)<br>
-<em>Syntax and Semantics: The Structure and Meaning of Utterances</em> (S. Wechsler)
+      <em>- Language Change and Language Variation</em> (D. Law)<br>
+<em>- Phonetics: The Production and Perception of Speech Sounds</em> (R. Smiljanic)<br>
+<em>- Syntax and Semantics: The Structure and Meaning of Utterances</em> (S. Wechsler)
     </td>
   </tr>
 
@@ -36,9 +36,9 @@ show_title: false
     <td class="cv-year">2020–2022</td>
     <td>
       <strong>Instructor</strong>, School of Linguistics, HSE University<br>
-      <em>Introduction to Linguistics</em><br>
-<em>Languages of the World</em><br>
-<em>Academic Writing</em>
+      <em>- Introduction to Linguistics</em><br>
+<em>- Languages of the World</em><br>
+<em>- Academic Writing</em>
     </td>
   </tr>
 
