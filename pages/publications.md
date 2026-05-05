@@ -22,7 +22,7 @@ Studies 3(46): 75-95. [pdf](https://iling-ran.ru/library/ural-altaic/ua2022_46.p
 - Cheremisinova, Maria. 2019. Komparativno-attenuativnaja polisemija v
 besermyanskom udmurtskom. [Comparative and attenuative polysemy in Beserman
 Udmurt]. Typology of Morphosyntactic Parameters 2(2): 128-150. [pdf](https://tmp.sc/application/files/6116/6798/2647/TMP-2019-2-2.pdf#page=128)
-- Cheremisinova, Maria and Yury Lander. 2018. DRUGOJ: tipologiˇceskie nablyudenija.
+- Cheremisinova, Maria and Yury Lander. 2018. DRUGOJ: tipologičeskie nablyudenija.
 [OTHER: typological observations]. Rhema 4: 109-124. [pdf](https://doi.org/10.31862/2500-2953-2018-4-109-124)
 
 ### Other publications
