@@ -4,12 +4,29 @@ title: Teaching
 permalink: /teaching/
 show_title: false
 ---
+<table class="cv-table">
+  <tr>
+    <td class="cv-year">2026</td>
+    <td>
+      <strong>Teaching Assistant</strong>, Department of Linguistics, UT Austin<br>
+      <em>Language Change and Language Variation</em> (P. Epps)
+    </td>
+  </tr>
 
-2026  Teaching Assistant, Department of Linguistics, University of Texas at Austin
-  - Language Change and Language Variation, Instructor: Patience Epps
+  <tr>
+    <td class="cv-year">2025</td>
+    <td>
+      <strong>Teaching Assistant</strong> (leading discussion sessions), Department of Linguistics, UT Austin<br>
+      <em>Threatened Languages: How World Linguistic Diversity Matters</em> (A. Woodbury, P. Epps)<br>
+      <em>Language and Communication across Species</em> (D. Quinto-Pozos)
+    </td>
+  </tr>
 
-2025  Teaching Assistant (leading discussion sessions), Department of Linguistics, University of Texas at Austin
-  - Threatened languages: How world linguistic diversity matters, Instructors: Anthony Woodbury, Patience Epps
-  - Language and Communication across species, Instructor: David Quinto-Pozos
+  <tr>
+    <td class="cv-year">2023–2024</td>
+    <td>
+      <strong>Teaching Assistant</strong>, Department of Linguistics, UT Austin
+    </td>
+  </tr>
+</table>
 
-2023-2024  
