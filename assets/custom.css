@@ -108,7 +108,7 @@ footer {
 }
 
 .site-header {
-  padding-bottom: 4px !important;
+  padding-bottom: 10px !important;
 }
 
 .profile-block {
@@ -120,5 +120,5 @@ footer {
 }
 
 main {
-  padding-top: 4px !important;
+  padding-top: 0px !important;
 }
