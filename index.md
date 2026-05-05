@@ -26,7 +26,7 @@ permalink: /
 Yagua (Peba-Yaguan), Beserman (Uralic, Permic), Khanty (Uralic, Ugric), Hill Mari (Uralic, Mari)
 
 <h2>My name</h2>
-My name is pronounced <span class="ipa">[mˠɐˈrʲiɘ t͡ʃʲɘrʲɪˈmʲisʲɘnˠəvˠə]</span>. However, I prefer to be called Masha <span class="ipa">[ˈmˠaʃˠə]</span>.
+My name is pronounced as <span class="ipa">[mˠɐˈrʲiɘ t͡ʃʲɘrʲɪˈmʲisʲɘnˠəvˠə]</span>. However, I prefer to be called Masha <span class="ipa">[ˈmˠaʃˠə]</span>.
 
 <hr>
 <footer style="margin:2rem 0; color:#666; font-size:0.9rem;">
