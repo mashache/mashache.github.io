@@ -187,3 +187,8 @@ li p {
   height: 14px !important;
   flex-shrink: 0;
 }
+
+.ipa {
+  font-family: "Noto Sans", "DejaVu Sans", "Arial Unicode MS", sans-serif;
+  font-size: 0.95em;
+}
