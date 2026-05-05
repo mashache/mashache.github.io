@@ -5,7 +5,6 @@ permalink: /teaching/
 show_title: false
 ---
 
-## Teaching
 2026  Teaching Assistant, Department of Linguistics, University of Texas at Austin
   - Language Change and Language Variation, Instructor: Patience Epps
 
