@@ -15,3 +15,6 @@ author:
   scholar: "https://scholar.google.ru/citations?user=RoF1l1UAAAAJ&hl=en&authuser=1"
   cv: "/assets/CV_Cheremisinova_2026apr.pdf"
   photo: /assets/img/profile.jpeg
+
+plugins:
+  - jekyll-sitemap
