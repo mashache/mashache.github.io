@@ -4,12 +4,11 @@ title: Home
 permalink: /
 ---
 
-<div class="section">
-    <h2>About</h2>
-<p>I am a third-year PhD student in Linguistics at the University of Texas at Austin. My research focuses on the documentation and description of languages. I am also interested in linguistic typology and the role of language contact in shaping grammar. I conducted field research working on several Uralic languages of Russia. Currently, I am working on documenting and describing Yagua (Peba-Yaguan), a language of the Peruvian Amazon.</p>
-</div>
 
-<h2>Research interests</h2>
+### About
+<p>I am a third-year PhD student in Linguistics at the University of Texas at Austin. My research focuses on the documentation and description of languages. I am also interested in linguistic typology and the role of language contact in shaping grammar. I conducted field research working on several Uralic languages of Russia. Currently, I am working on documenting and describing Yagua (Peba-Yaguan), a language of the Peruvian Amazon.</p>
+
+### Research interests
 <ul>
 <li>linguistics</li>
 <li>language documentation</li>
@@ -22,10 +21,10 @@ permalink: /
 <li>isolates</li>
 </ul>
 
-<h2>Linguistic field trips</h2>
+### Linguistic field trips
 Yagua (Peba-Yaguan), Beserman (Uralic, Permic), Khanty (Uralic, Ugric), Hill Mari (Uralic, Mari)
 
-<h2>My name</h2>
+### My name
 My name is pronounced as <span class="ipa">[mˠɐˈrʲiɘ t͡ʃʲɘrʲɪˈmʲisʲɘnˠəvˠə]</span>. However, I prefer to be called Masha <span class="ipa">[ˈmˠaʃˠə]</span>.
 
 <hr>
