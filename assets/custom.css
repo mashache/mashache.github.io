@@ -65,7 +65,7 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
   display: flex;
   align-items: center;
   gap: 28px;
-  margin-bottom: 20px;       
+  margin-bottom: 30px !important;       
 }
 
 .site-menu a {
@@ -127,12 +127,8 @@ footer {
   padding-bottom: 10px !important;
 }
 
-.profile-block {
-  margin-bottom: 26px !important;
-}
 
 .site-menu {
-  margin-top: 6px !important;
   margin-bottom: 0 !important;
 }
 
