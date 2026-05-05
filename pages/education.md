@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Education
-permalink: /education/
+title: Teaching
+permalink: /teaching/
 show_title: false
 ---
 
-## Education
-- Ph.D. (in progress), Department of Linguistics, The University of Texas at Austin, 2023-present (Supervisor: Pattie Epps)
-- M.A. in Linguistic Theory and Language Description (with honours), 2021-2023, HSE University, Moscow, Russia
-- B.A. in Fundamental and Applied Linguistics (with honours), 2016-2020, HSE University, Moscow, Russia
+## Teaching
+2026  Teaching Assistant, Department of Linguistics, University of Texas at Austin
+  - Language Change and Language Variation, Instructor: Patience Epps
+
+2025  Teaching Assistant (leading discussion sessions), Department of Linguistics, University of Texas at Austin
+  - Threatened languages: How world linguistic diversity matters, Instructors: Anthony Woodbury, Patience Epps
+  - Language and Communication across species, Instructor: David Quinto-Pozos
+
+2023-2024  
