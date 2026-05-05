@@ -7,8 +7,10 @@ show_title: false
 
 ## Publications
 ### Books
-<img width="1866" height="2846" alt="bsrmn_vol1" src="https://github.com/user-attachments/assets/d05ffecd-54a4-4de8-aabd-b3c9d5efaa3e" />
-<img width="1866" height="2846" alt="bsrmn_vol2" src="https://github.com/user-attachments/assets/76952899-49b8-4d19-9fc4-79d813aaf975" />
+<div class="book-covers">
+  <img src="https://github.com/user-attachments/assets/d05ffecd-54a4-4de8-aabd-b3c9d5efaa3e" alt="bsrmn_vol1">
+  <img src="https://github.com/user-attachments/assets/76952899-49b8-4d19-9fc4-79d813aaf975" alt="bsrmn_vol2">
+</div>
 - Arkhangelskiy, Timofey, Maria Usacheva and Maria Cheremisinova. 2026. A Grammar
 of Beserman: Volume 1. Leiden, The Netherlands: Brill.[link](https://doi.org/10.1163/9789004757097)
 - Arkhangelskiy, Timofey, Maria Usacheva and Maria Cheremisinova. 2026. A Grammar
