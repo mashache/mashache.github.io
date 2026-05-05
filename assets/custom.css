@@ -210,3 +210,18 @@ li p {
   color: #5f3d25;
   white-space: nowrap;
 }
+
+.cv-table ul {
+  margin: 0.3em 0 0.6em 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.cv-table li {
+  margin-bottom: 0.3em;
+}
+
+.cv-table li::before {
+  content: "– ";
+  color: #8b5e3c;
+}
