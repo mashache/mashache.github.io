@@ -68,13 +68,6 @@ img { max-width: 100%; height: auto; border-radius: 10px; }
   margin-bottom: 0px !important;       
 }
 
-.site-menu {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin-top: 14px;
-  padding-top: 10px;
-}
 
 .site-menu a {
   color: #000 !important;      /* always black */
@@ -190,4 +183,13 @@ li p {
 .ipa {
   font-family: "Noto Sans", "DejaVu Sans", "Arial Unicode MS", sans-serif;
   font-size: 0.95em;
+}
+
+.site-menu {
+  display: flex !important;
+  gap: 12px !important;
+  flex-wrap: wrap !important;
+
+  margin-top: 32px !important;
+  padding-top: 14px !important;
 }
