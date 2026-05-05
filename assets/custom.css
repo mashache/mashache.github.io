@@ -177,10 +177,11 @@ li p {
 .icon {
   display: inline-flex;
   align-items: center;
-  color: #7a5f4a;
+  justify-content: center;
 }
 
 .icon svg {
-  width: 15px;
-  height: 15px;
+  width: 14px !important;
+  height: 14px !important;
+  flex-shrink: 0;
 }
