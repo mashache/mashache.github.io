@@ -17,8 +17,8 @@ show_title: false
     <td class="cv-year">2025</td>
     <td>
       <strong>Teaching Assistant (leading discussion sessions)</strong>, Department of Linguistics, UT Austin<br>
-      <em>Threatened Languages: How World Linguistic Diversity Matters</em> (A. Woodbury, P. Epps)<br>
-      <em>Language and Communication across Species</em> (D. Quinto-Pozos)
+      <em>- Threatened Languages: How World Linguistic Diversity Matters</em> (A. Woodbury, P. Epps)<br>
+      <em>- Language and Communication across Species</em> (D. Quinto-Pozos)
     </td>
   </tr>
 
