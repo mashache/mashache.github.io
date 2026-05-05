@@ -22,8 +22,19 @@ main {
   padding: 0px 24px 30px; /* top, sides, bottom */
 }
 
-a { color: var(--link); text-decoration: none; }
-a:hover { text-decoration: underline; }
+main a {
+  color: #000;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: background-color 0.2s ease;
+}
+
+main a:hover {
+  color: #000;
+  background-color: #e6dccb;
+  text-decoration: underline;
+}
 
 h1 {
   font-size: 2rem;
