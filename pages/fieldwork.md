@@ -21,6 +21,6 @@ After gaining experience in two fieldwork projects on other Uralic languages as 
 As an undergraduate student in HSE University, I started doing fieldwork with other students and professors.
 
 <p align="center">
-  <img src="../assets/img/Olga_masha_fieldwork.jpg" width="500">
+  <img src="../assets/img/Olga_masha_fieldwork.jpg" width="300">
 </p>
 Olga Tasjmanova and me, working on transcription, Russia, Khanty-Mansi region, Kazym village, 2021.
