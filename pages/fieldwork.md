@@ -9,7 +9,7 @@ show_title: false
 I am currently working on documenting and describing Yagua, a Peba-Yaguan language of the Peruvian Amazon, spoken by around 700 people. Yagua is the only extant member of its family and is severely endangered. The current project is funded by ELDP (Endangered Languages Documentation Programme).
 
 <p align="center">
-  <img src="assets/img/Mirtila_masha_fieldwork_2024.jpg" width="500">
+  <img src="../assets/img/Mirtila_masha_fieldwork_2024.jpg" width="500">
 </p>
 
 ### Beserman (Uralic, Russia)
