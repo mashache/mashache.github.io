@@ -18,3 +18,7 @@ After gaining experience in two fieldwork projects on other Uralic languages as 
 
 ### Khanty (Uralic, Russia) & Hill Mari (Uralic, Russia)
 As an undergraduate student in HSE University, I started doing fieldwork with other students and professors.
+
+<p align="center">
+  <img src="../assets/img/Olga_masha_fieldwork.jpg" width="500">
+</p>
