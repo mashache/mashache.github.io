@@ -16,6 +16,10 @@ I am currently working on documenting and describing Yagua, a Peba-Yaguan langua
 ### Beserman (Uralic, Russia)
 After gaining experience in two fieldwork projects on other Uralic languages as a student, Khanty and Hill Mari, I took part in several Beserman fieldwork trips, where I mainly worked on conditionals, comparative/attenuative polysemy, and verbal actionality. I have contributed to the [Beserman Multimedia Corpus](https://beserman.web-corpora.net/index_en.html). The results of my work have also been published as part of the [Grammar of Beserman](https://brill.com/display/title/74226?srsltid=AfmBOooGg2IkzgYDtypz4j06St__yXWMJfPjzkwiz01RK6bd2roTY9Zw&contents=editorial-content).
 
+<p align="center">
+  <img src="../assets/img/Udmurtia.jpg" width="500">
+</p>
+<p align="center" style="color:#8B5E3C; font-size:0.9em;"><em>Winter in Shamardan village, Russia, Udmurtia, 2020.</em></p>
 
 ### Khanty (Uralic, Russia) & Hill Mari (Uralic, Russia)
 As an undergraduate student in HSE University, I started doing fieldwork with other students and professors.
