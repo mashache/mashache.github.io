@@ -11,7 +11,7 @@ I am currently working on documenting and describing Yagua, a Peba-Yaguan langua
 <p align="center">
   <img src="../assets/img/Mirtila_masha_fieldwork_2024.jpg" width="500">
 </p>
-<p align="center"><em>Mirtila Macohuachi and me, Peru, Loreto, Urco Miraño, 2024.</em></p>
+<p align="center" style="color:#8B5E3C; font-size:0.9em;"><em>Mirtila Macohuachi and me, Peru, Loreto, Urco Miraño, 2024.</em></p>
 
 ### Beserman (Uralic, Russia)
 After gaining experience in two fieldwork projects on other Uralic languages as a student, Khanty and Hill Mari, I took part in several Beserman fieldwork trips, where I mainly worked on conditionals, comparative/attenuative polysemy, and verbal actionality. I have contributed to the [Beserman Multimedia Corpus](https://beserman.web-corpora.net/index_en.html). The results of my work have also been published as part of the [Grammar of Beserman](https://brill.com/display/title/74226?srsltid=AfmBOooGg2IkzgYDtypz4j06St__yXWMJfPjzkwiz01RK6bd2roTY9Zw&contents=editorial-content).
@@ -23,4 +23,4 @@ As an undergraduate student in HSE University, I started doing fieldwork with ot
 <p align="center">
   <img src="../assets/img/Olga_masha_fieldwork.jpg" width="300">
 </p>
-<p align="center"><em>Olga Tasjmanova and me, working on transcription, Russia, Khanty-Mansi region, Kazym village, 2021.</em></p>
+<p align="center" style="color:#8B5E3C; font-size:0.9em;"><em>Olga Tasjmanova and me, working on transcription, Russia, Khanty-Mansi region, Kazym village, 2021.</em></p>
