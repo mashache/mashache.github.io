@@ -26,6 +26,5 @@ Udmurt]. *Typology of Morphosyntactic Parameters* 2(2): 128-150. [pdf](https://t
 [OTHER: typological observations]. *Rhema* 4: 109-124. [pdf](https://doi.org/10.31862/2500-2953-2018-4-109-124)
 
 ### Other publications
-- Cheremisinova, Maria. 2020. Proprietive Attributivizers in Kazym Khanty. *Series WP
-BRP “Linguistics”* 104. NRU HSE. [pdf](https://dx.doi.org/10.2139/ssrn.3750369)
+- Cheremisinova, Maria. 2020. Proprietive Attributivizers in Kazym Khanty. *HSE University, Working Papers series, Basic Research Program “Linguistics”* 104. NRU HSE. [pdf](https://dx.doi.org/10.2139/ssrn.3750369)
 
