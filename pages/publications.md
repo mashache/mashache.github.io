@@ -17,13 +17,13 @@ of Beserman: Volume 2.* Leiden, The Netherlands: Brill. [link](https://doi.org/1
 
 ### Journal articles
 - Cheremisinova, Maria. 2022. Komparativno-attenuativnaja polisemija v finno-ugorskix
-jazykax. [Comparative and attenuative polysemy in Finno-Ugric languages]. *Ural-Altaic
+jazykax. [Comparative and attenuative polysemy in Finno-Ugric languages] (in Russian). *Ural-Altaic
 Studies* 3(46): 75-95. [pdf](https://iling-ran.ru/library/ural-altaic/ua2022_46.pdf#page=76)
 - Cheremisinova, Maria. 2019. Komparativno-attenuativnaja polisemija v
 besermyanskom udmurtskom. [Comparative and attenuative polysemy in Beserman
-Udmurt]. *Typology of Morphosyntactic Parameters* 2(2): 128-150. [pdf](https://tmp.sc/application/files/6116/6798/2647/TMP-2019-2-2.pdf#page=128)
+Udmurt] (in Russian). *Typology of Morphosyntactic Parameters* 2(2): 128-150. [pdf](https://tmp.sc/application/files/6116/6798/2647/TMP-2019-2-2.pdf#page=128)
 - Cheremisinova, Maria and Yury Lander. 2018. DRUGOJ: tipologičeskie nablyudenija.
-[OTHER: typological observations]. *Rhema* 4: 109-124. [pdf](https://doi.org/10.31862/2500-2953-2018-4-109-124)
+[OTHER: typological observations] (in Russian). *Rhema* 4: 109-124. [pdf](https://doi.org/10.31862/2500-2953-2018-4-109-124)
 
 ### Other publications
 - Cheremisinova, Maria. 2020. Proprietive Attributivizers in Kazym Khanty. *HSE University, Working Papers series, Basic Research Program “Linguistics”* 104. NRU HSE. [pdf](https://dx.doi.org/10.2139/ssrn.3750369)
